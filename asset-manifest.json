@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HomeAroma/static/css/main.cbbab43b.css",
-    "main.js": "/HomeAroma/static/js/main.58a8d45d.js",
+    "main.js": "/HomeAroma/static/js/main.e7d8b512.js",
     "static/js/453.5567d74c.chunk.js": "/HomeAroma/static/js/453.5567d74c.chunk.js",
     "index.html": "/HomeAroma/index.html",
     "main.cbbab43b.css.map": "/HomeAroma/static/css/main.cbbab43b.css.map",
-    "main.58a8d45d.js.map": "/HomeAroma/static/js/main.58a8d45d.js.map",
+    "main.e7d8b512.js.map": "/HomeAroma/static/js/main.e7d8b512.js.map",
     "453.5567d74c.chunk.js.map": "/HomeAroma/static/js/453.5567d74c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbbab43b.css",
-    "static/js/main.58a8d45d.js"
+    "static/js/main.e7d8b512.js"
   ]
 }
