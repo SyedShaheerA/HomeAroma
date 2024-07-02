@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
+
 export default function Footer() {
   return (
     <div>
@@ -11,6 +13,7 @@ export default function Footer() {
             <Link href="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
               
             </Link>
+            <a href="https://wa.me/+923303252998?text=Hi%20I%20would%20like%20to%20order!" target="_blank">Contact Me </a>
             <span className="text-muted">© 2022 HomeAroma, Inc</span>
           </div>
 
